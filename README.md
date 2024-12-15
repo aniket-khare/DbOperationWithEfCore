@@ -1,2 +1,1 @@
-# StudentManagementAPI
-ASP.Net Web API project to manage students and classes
+# Entity Framework Basic Workaround
